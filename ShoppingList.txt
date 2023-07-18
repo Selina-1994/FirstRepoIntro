@@ -6,3 +6,5 @@ Bananas
 Cheries
 Carrots  `
 Cereal
+Cucumber
+Zimba
